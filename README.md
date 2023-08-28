@@ -10,7 +10,7 @@ This work represent an approach to the Anomaly Detection task in imbalanced prob
 * [Git](https://git-scm.com/downloads)
 
 ### Installation
- 1. Clone the repository: `git clone https://github.com/francomano/PSA-GAN.git` 
+ 1. Clone the repository: `git clone https://github.com/DavideEspositoPelella/Anomaly_Detection_GAN_Based.git` 
  2. Launch the notebook: Deep_Learning_Project.ipynb
 
 ## Author 
