@@ -16,5 +16,5 @@ This work represent an approach to the Anomaly Detection task in imbalanced prob
 ## Author 
 * **Davide Esposito Pelella** - [DavideEspositoPelella](https://github.com/DavideEspositoPelella)
 
-## Cite
+## Citations
 * **GAN-based_Anomaly_Detection_in_Imbalance_Problems** - [GAN-based_Anomaly_Detection_in_Imbalance_Problems](https://paperswithcode.com/paper/gan-based-anomaly-detection-in-imbalance)
